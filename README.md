@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I am [Bekzat](https://bekzatalish.com/) 👋
+
+I am a Senior Data Scientist at Capital One. I have MS in CS from Georgia Institute of Technology and MS in Business Analytics from University of Minnesota.
+
+- ⚙️ I use `Python`, `TensorFlow`, `PyTorch`.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bekzatalish/) | [Email](mailto:bekzatalish@gmail.com)
 
 <!--
 **bekzatalish/bekzatalish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
