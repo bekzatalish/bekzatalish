@@ -1,6 +1,6 @@
 ### Hi there, I am [Bekzat](https://bekzatalish.com/) 👋
 
-I am a Machine Learning Engineer at Meta. I have MS in CS/ML from Georgia Institute of Technology and MS in Business Analytics from University of Minnesota.
+I am a Machine Learning Engineer at [Meta](https://github.com/facebook). I have MS in Computer Science / Machine Learning from Georgia Institute of Technology and MS in Business Analytics from University of Minnesota.
 
 - ⚙️ I use `Python`, `PyTorch`, `TensorFlow`.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bekzatalish/) | [Email](mailto:bekzatalish@gmail.com)
